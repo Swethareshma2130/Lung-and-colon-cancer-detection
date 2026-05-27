@@ -6,7 +6,7 @@
 
 A machine learning project for detecting lung and colon cancer using deep learning techniques and medical imaging analysis.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -19,7 +19,7 @@ A machine learning project for detecting lung and colon cancer using deep learni
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Project Overview
+## Project Overview
 
 This project aims to develop a machine learning model capable of detecting lung and colon cancer from medical imaging data. By leveraging deep learning techniques, the model can assist medical professionals in early diagnosis and treatment planning.
 
@@ -29,7 +29,7 @@ This project aims to develop a machine learning model capable of detecting lung 
 - Provide explainable predictions for medical professionals
 - Enable rapid screening and diagnosis
 
-## ✨ Features
+## Features
 
 - **Multi-class Classification**: Detect multiple cancer types
 - **Deep Learning Model**: State-of-the-art neural network architecture
@@ -37,7 +37,7 @@ This project aims to develop a machine learning model capable of detecting lung 
 - **Model Evaluation**: Detailed performance metrics and visualizations
 - **Easy to Use**: Jupyter Notebook implementation for transparency
 
-## 📊 Dataset
+## Dataset
 
 The project utilizes medical imaging datasets containing:
 - Lung cancer images
@@ -51,7 +51,7 @@ The project utilizes medical imaging datasets containing:
 
 **Note**: Please ensure you have the necessary permissions and follow HIPAA/privacy regulations when using medical data.
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -92,7 +92,7 @@ The project utilizes medical imaging datasets containing:
 - Seaborn
 - Pillow (PIL)
 
-## 📖 Usage
+## Usage
 
 1. **Open the notebook** in Jupyter
 2. **Load and preprocess data**: Run cells for data loading and preprocessing
@@ -108,7 +108,7 @@ The project utilizes medical imaging datasets containing:
 # Generate predictions on new data
 ```
 
-## 🧠 Model Architecture
+## Model Architecture
 
 The project implements a deep learning model with:
 - **Input Layer**: Image preprocessing and normalization
@@ -119,7 +119,7 @@ The project implements a deep learning model with:
 
 **Transfer Learning**: May utilize pre-trained models (ResNet, VGG, InceptionV3, etc.) for improved performance.
 
-## 📈 Results
+## Results
 
 ### Performance Metrics
 - **Accuracy**: Overall correctness of predictions
@@ -136,7 +136,7 @@ The project implements a deep learning model with:
 
 *Detailed results will be available in the notebook outputs.*
 
-## 📁 File Structure
+## File Structure
 
 ```
 Lung-and-colon-cancer-detection/
@@ -151,7 +151,7 @@ Lung-and-colon-cancer-detection/
 └── output/                            # Results and visualizations
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -162,7 +162,7 @@ Contributions are welcome! To contribute:
 5. Push to the branch (`git push origin feature/improvement`)
 6. Open a Pull Request
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is for **educational and research purposes only**. It should not be used as a sole diagnostic tool for medical decision-making without professional medical consultation. Always consult with qualified healthcare professionals for medical diagnosis and treatment.
 
@@ -170,18 +170,18 @@ This project is for **educational and research purposes only**. It should not be
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
+##  Author
 
 **Swetha Reshma**
 - GitHub: [@Swethareshma2130](https://github.com/Swethareshma2130)
 
-## 📚 References
+## References
 
 - [TensorFlow/Keras Documentation](https://www.tensorflow.org/)
 - [Medical Image Analysis](https://en.wikipedia.org/wiki/Medical_image)
 - [Deep Learning for Cancer Detection](https://arxiv.org/)
 
-## 📞 Support
+## Support
 
 For questions or issues, please open an issue on the [GitHub Issues](https://github.com/Swethareshma2130/Lung-and-colon-cancer-detection/issues) page.
 
